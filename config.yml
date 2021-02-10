@@ -1,0 +1,42 @@
+Spawn:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Config:
+
+
+    welcome-message: true
+    welcome-message-text: "&3&l Welcome to The Server"
+    
+    
+    
+    
+Scoreboard:
+    
+    ticks: 100
+    
+    #100 ticks (5 second)
+    
+    Title: "&2&lYour &a&lServer"
+    
+    Text:
+    
+    1: "&6&lRank"
+    2: "%vault_rank%"
+    3: "&6&lPlayer"
+    4: "%player_name%"
