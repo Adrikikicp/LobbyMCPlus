@@ -1,0 +1,35 @@
+main: org.lobbymc.LobbyMCPlus
+version: 1.1
+name: LobbyMC
+api-version: "1.13"
+author: [Adrikikicp]
+description: A simple lobby plugin
+
+
+softdepend: [ProtocolLib, PlaceholderAPI]
+
+
+
+commands:
+
+
+
+spawn: 
+description: Lobby command
+
+setspawn:
+description: SetSpawn Command
+permission: lobbymc.addspawn
+
+
+lobbymc:
+description: Main Command
+aliases: [lmc, lobbyminecraft, lminecraft]
+
+
+
+
+permissions:
+
+lobbymc.addspawn:
+
